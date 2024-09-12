@@ -1,5 +1,5 @@
 # Bootcamp Claro - Java com Spring Boot
 
--> DIO - Trilha Java Básico
+-> DIO - Trilha Java
 
 -> Exercicios / Desafios
